@@ -1,10 +1,10 @@
+import StatusColumn from "./components/StatusColumn"
+
 function App() {
 
   return (
     <>
-      <div>
-        test
-      </div>
+      <StatusColumn />
     </>
   )
 }
