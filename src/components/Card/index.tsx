@@ -1,5 +1,6 @@
 import { Todo } from '../../interface/Todo';
-import Option from '../icons/Option';
+import { Option } from "../icons";
+
 import './card.scss'
 interface Props {
   todo: Todo
@@ -15,7 +16,9 @@ function Card({ todo }: Props) {
       </p>
 
       <div className="progress-bar">
-        <div className="active">
+        <div className="active"
+          style={{ width: `${todo.completionPercentage * 3}px` }}
+        >
         </div>
       </div>
       <div className="deadline">
@@ -36,7 +39,7 @@ function Card({ todo }: Props) {
           <Option />
         </div>
       </div>
-    </div>
+    </div >
   )
 }
 

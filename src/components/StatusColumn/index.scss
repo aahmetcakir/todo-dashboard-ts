@@ -1,0 +1,43 @@
+.column {
+  width: 320px;
+  padding: 16px;
+  .header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px 0px;
+
+    .title {
+      font-size: 20px;
+      font-weight: 700;
+      color: #2d2d2d;
+    }
+
+    .actions {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      :first-child {
+        color: #c2c2c2;
+        width: 16px;
+        height: 16px;
+        border-radius: 24px;
+        padding: 8px;
+        transition: all ease 0.15s;
+        &:hover {
+          background-color: #ffffff;
+        }
+      }
+      &:hover {
+        cursor: pointer;
+      }
+    }
+  }
+  .todos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+  }
+}

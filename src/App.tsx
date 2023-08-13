@@ -1,10 +1,9 @@
-import StatusColumn from "./components/StatusColumn"
-
+import Layout from "./components/Layout"
 function App() {
 
   return (
     <>
-      <StatusColumn />
+      <Layout />
     </>
   )
 }
