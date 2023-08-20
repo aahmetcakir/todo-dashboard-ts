@@ -1,4 +1,5 @@
 import { Todo } from "../../interface/Todo";
+import ProgressBar from "../shared/ProgressBar";
 import { Option } from "../icons";
 import "./style.scss";
 
@@ -11,16 +12,13 @@ function Card({ todo }: Props) {
       <div className="title">{todo.title}</div>
       <p className="description">{todo.description}</p>
 
-      <div className="progress-bar">
-        <div
-          className="active"
-          style={{ width: `${todo.completionPercentage * 3}px` }}
-        ></div>
-      </div>
+      <ProgressBar completionPercentage={todo.completionPercentage} />
+
       <div className="deadline">
         <b>{`${todo.completionText.split(" ")[0]} `}</b>
         {todo.completionText.split(" ")[1]} left
       </div>
+
       <div className="card-footer">
         <div className="avatar-container">
           {todo.avatars.map((avatar) => {
@@ -34,6 +32,7 @@ function Card({ todo }: Props) {
             );
           })}
         </div>
+
         <div className="option-menu">
           <Option />
         </div>
