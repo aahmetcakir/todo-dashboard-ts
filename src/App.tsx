@@ -1,11 +1,6 @@
-import Layout from "./components/Layout"
+import Layout from "./components/Layout";
 function App() {
-
-  return (
-    <>
-      <Layout />
-    </>
-  )
+  return <Layout />;
 }
 
-export default App
+export default App;
