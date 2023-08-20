@@ -18,10 +18,8 @@ function Card({ todo }: Props) {
         ></div>
       </div>
       <div className="deadline">
-        <b>{todo.completionText.split(" ")[0] + " "}</b>
-        {todo.completionText.split(" ")[1]}{" "}
-        {/* {`${todo.completionText.split(' ')[1]}`} */}
-        left
+        <b>{`${todo.completionText.split(" ")[0]} `}</b>
+        {todo.completionText.split(" ")[1]} left
       </div>
       <div className="card-footer">
         <div className="avatar-container">
@@ -30,7 +28,7 @@ function Card({ todo }: Props) {
               <img
                 key={`avatars-${avatar.id}`}
                 className="avatar"
-                src={avatar.photo}
+                src={avatar.photoUrl}
                 alt={avatar.fullname}
               />
             );

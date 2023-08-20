@@ -1,3 +1,5 @@
+@import "../../variable.scss";
+
 .column {
   width: 320px;
   padding: 16px;
@@ -11,7 +13,7 @@
     .title {
       font-size: 20px;
       font-weight: 700;
-      color: #2d2d2d;
+      color: $black;
     }
 
     .actions {
@@ -20,14 +22,14 @@
       justify-content: space-between;
       gap: 12px;
       :first-child {
-        color: #c2c2c2;
+        color: $secondary;
         width: 16px;
         height: 16px;
         border-radius: 24px;
         padding: 8px;
         transition: all ease 0.15s;
         &:hover {
-          background-color: #ffffff;
+          background-color: $white;
         }
       }
       &:hover {

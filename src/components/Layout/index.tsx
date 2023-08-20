@@ -19,12 +19,12 @@ function Layout() {
             {
               id: 1,
               fullname: "Ahmet ÇAKIR",
-              photo: "https://avatars.githubusercontent.com/u/51996326?v=4",
+              photoUrl: "https://avatars.githubusercontent.com/u/51996326?v=4",
             },
             {
               id: 2,
               fullname: "Ahmet ÇAKIR",
-              photo:
+              photoUrl:
                 "https://pbs.twimg.com/profile_images/1669511414682116096/DIiHpxYM_400x400.jpg",
             },
           ],
@@ -40,12 +40,12 @@ function Layout() {
             {
               id: 1,
               fullname: "Ahmet ÇAKIR",
-              photo: "https://avatars.githubusercontent.com/u/51996326?v=4",
+              photoUrl: "https://avatars.githubusercontent.com/u/51996326?v=4",
             },
             {
               id: 2,
               fullname: "Ahmet ÇAKIR",
-              photo:
+              photoUrl:
                 "https://pbs.twimg.com/profile_images/1669511414682116096/DIiHpxYM_400x400.jpg",
             },
           ],
@@ -61,12 +61,12 @@ function Layout() {
             {
               id: 1,
               fullname: "Ahmet ÇAKIR",
-              photo: "https://avatars.githubusercontent.com/u/51996326?v=4",
+              photoUrl: "https://avatars.githubusercontent.com/u/51996326?v=4",
             },
             {
               id: 2,
               fullname: "Ahmet ÇAKIR",
-              photo:
+              photoUrl:
                 "https://pbs.twimg.com/profile_images/1669511414682116096/DIiHpxYM_400x400.jpg",
             },
           ],
@@ -82,12 +82,12 @@ function Layout() {
             {
               id: 1,
               fullname: "Ahmet ÇAKIR",
-              photo: "https://avatars.githubusercontent.com/u/51996326?v=4",
+              photoUrl: "https://avatars.githubusercontent.com/u/51996326?v=4",
             },
             {
               id: 2,
               fullname: "Ahmet ÇAKIR",
-              photo:
+              photoUrl:
                 "https://pbs.twimg.com/profile_images/1669511414682116096/DIiHpxYM_400x400.jpg",
             },
           ],
@@ -109,12 +109,12 @@ function Layout() {
             {
               id: 1,
               fullname: "Ahmet ÇAKIR",
-              photo: "https://avatars.githubusercontent.com/u/51996326?v=4",
+              photoUrl: "https://avatars.githubusercontent.com/u/51996326?v=4",
             },
             {
               id: 2,
               fullname: "Ahmet ÇAKIR",
-              photo:
+              photoUrl:
                 "https://pbs.twimg.com/profile_images/1669511414682116096/DIiHpxYM_400x400.jpg",
             },
           ],
@@ -130,12 +130,12 @@ function Layout() {
             {
               id: 1,
               fullname: "Ahmet ÇAKIR",
-              photo: "https://avatars.githubusercontent.com/u/51996326?v=4",
+              photoUrl: "https://avatars.githubusercontent.com/u/51996326?v=4",
             },
             {
               id: 2,
               fullname: "Ahmet ÇAKIR",
-              photo:
+              photoUrl:
                 "https://pbs.twimg.com/profile_images/1669511414682116096/DIiHpxYM_400x400.jpg",
             },
           ],
@@ -151,12 +151,12 @@ function Layout() {
             {
               id: 1,
               fullname: "Ahmet ÇAKIR",
-              photo: "https://avatars.githubusercontent.com/u/51996326?v=4",
+              photoUrl: "https://avatars.githubusercontent.com/u/51996326?v=4",
             },
             {
               id: 2,
               fullname: "Ahmet ÇAKIR",
-              photo:
+              photoUrl:
                 "https://pbs.twimg.com/profile_images/1669511414682116096/DIiHpxYM_400x400.jpg",
             },
           ],
@@ -178,12 +178,12 @@ function Layout() {
             {
               id: 1,
               fullname: "Ahmet ÇAKIR",
-              photo: "https://avatars.githubusercontent.com/u/51996326?v=4",
+              photoUrl: "https://avatars.githubusercontent.com/u/51996326?v=4",
             },
             {
               id: 2,
               fullname: "Ahmet ÇAKIR",
-              photo:
+              photoUrl:
                 "https://pbs.twimg.com/profile_images/1669511414682116096/DIiHpxYM_400x400.jpg",
             },
           ],
@@ -199,12 +199,12 @@ function Layout() {
             {
               id: 1,
               fullname: "Ahmet ÇAKIR",
-              photo: "https://avatars.githubusercontent.com/u/51996326?v=4",
+              photoUrl: "https://avatars.githubusercontent.com/u/51996326?v=4",
             },
             {
               id: 2,
               fullname: "Ahmet ÇAKIR",
-              photo:
+              photoUrl:
                 "https://pbs.twimg.com/profile_images/1669511414682116096/DIiHpxYM_400x400.jpg",
             },
           ],
@@ -220,12 +220,12 @@ function Layout() {
             {
               id: 1,
               fullname: "Ahmet ÇAKIR",
-              photo: "https://avatars.githubusercontent.com/u/51996326?v=4",
+              photoUrl: "https://avatars.githubusercontent.com/u/51996326?v=4",
             },
             {
               id: 2,
               fullname: "Ahmet ÇAKIR",
-              photo:
+              photoUrl:
                 "https://pbs.twimg.com/profile_images/1669511414682116096/DIiHpxYM_400x400.jpg",
             },
           ],
@@ -241,12 +241,12 @@ function Layout() {
             {
               id: 1,
               fullname: "Ahmet ÇAKIR",
-              photo: "https://avatars.githubusercontent.com/u/51996326?v=4",
+              photoUrl: "https://avatars.githubusercontent.com/u/51996326?v=4",
             },
             {
               id: 2,
               fullname: "Ahmet ÇAKIR",
-              photo:
+              photoUrl:
                 "https://pbs.twimg.com/profile_images/1669511414682116096/DIiHpxYM_400x400.jpg",
             },
           ],
@@ -262,12 +262,12 @@ function Layout() {
             {
               id: 1,
               fullname: "Ahmet ÇAKIR",
-              photo: "https://avatars.githubusercontent.com/u/51996326?v=4",
+              photoUrl: "https://avatars.githubusercontent.com/u/51996326?v=4",
             },
             {
               id: 2,
               fullname: "Ahmet ÇAKIR",
-              photo:
+              photoUrl:
                 "https://pbs.twimg.com/profile_images/1669511414682116096/DIiHpxYM_400x400.jpg",
             },
           ],
@@ -289,12 +289,12 @@ function Layout() {
             {
               id: 1,
               fullname: "Ahmet ÇAKIR",
-              photo: "https://avatars.githubusercontent.com/u/51996326?v=4",
+              photoUrl: "https://avatars.githubusercontent.com/u/51996326?v=4",
             },
             {
               id: 2,
               fullname: "Ahmet ÇAKIR",
-              photo:
+              photoUrl:
                 "https://pbs.twimg.com/profile_images/1669511414682116096/DIiHpxYM_400x400.jpg",
             },
           ],
@@ -310,12 +310,12 @@ function Layout() {
             {
               id: 1,
               fullname: "Ahmet ÇAKIR",
-              photo: "https://avatars.githubusercontent.com/u/51996326?v=4",
+              photoUrl: "https://avatars.githubusercontent.com/u/51996326?v=4",
             },
             {
               id: 2,
               fullname: "Ahmet ÇAKIR",
-              photo:
+              photoUrl:
                 "https://pbs.twimg.com/profile_images/1669511414682116096/DIiHpxYM_400x400.jpg",
             },
           ],
@@ -331,12 +331,12 @@ function Layout() {
             {
               id: 1,
               fullname: "Ahmet ÇAKIR",
-              photo: "https://avatars.githubusercontent.com/u/51996326?v=4",
+              photoUrl: "https://avatars.githubusercontent.com/u/51996326?v=4",
             },
             {
               id: 2,
               fullname: "Ahmet ÇAKIR",
-              photo:
+              photoUrl:
                 "https://pbs.twimg.com/profile_images/1669511414682116096/DIiHpxYM_400x400.jpg",
             },
           ],
@@ -352,12 +352,12 @@ function Layout() {
             {
               id: 1,
               fullname: "Ahmet ÇAKIR",
-              photo: "https://avatars.githubusercontent.com/u/51996326?v=4",
+              photoUrl: "https://avatars.githubusercontent.com/u/51996326?v=4",
             },
             {
               id: 2,
               fullname: "Ahmet ÇAKIR",
-              photo:
+              photoUrl:
                 "https://pbs.twimg.com/profile_images/1669511414682116096/DIiHpxYM_400x400.jpg",
             },
           ],

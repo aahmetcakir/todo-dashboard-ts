@@ -11,5 +11,5 @@ export interface Todo {
 export interface Avatar {
   id: number;
   fullname: string;
-  photo: string;
+  photoUrl: string;
 }

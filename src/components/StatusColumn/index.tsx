@@ -1,7 +1,7 @@
 import { IStatusColumn } from "../../interface/StatusColumn";
 import Card from "../Card";
 import { Plus, Option } from "../icons";
-import "./index.scss";
+import "./style.scss";
 interface Props {
   column: IStatusColumn;
 }
