@@ -16,6 +16,20 @@
       color: $black;
     }
 
+    .title-input {
+      border: none;
+      background-color: #f4f4f4;
+      font-size: 20px;
+      font-weight: 700;
+      color: $black;
+      &:focus {
+        outline: none;
+      }
+      &::placeholder {
+        color: $secondary;
+      }
+    }
+
     .actions {
       display: flex;
       align-items: center;
